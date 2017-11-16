@@ -1,0 +1,6 @@
+framework module CYFrame {
+  umbrella header "CYFrame.h"
+
+  export *
+  module * { export * }
+}
